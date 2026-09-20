@@ -49,7 +49,6 @@ git commit -m"Comentario descriptivo"
 
 
 
-![](img/riku.jpg)
 
 
 

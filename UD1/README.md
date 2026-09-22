@@ -39,7 +39,7 @@ git commit -m"Comentario descriptivo"
 
 
 
- | Nombre | Desarrollador | Imagen| Funnción
+ | Nombre | Desarrollador | Imagen| Función
 |------|        -       |       -|  -   | 
 |HTML CSS Support|Ecmel|![HTML CSS Supoort](img/html%20css.png)|Autocompleta clases e IDs de CSS dentro de tus archivos HTML para que no tengas que escribirlos de memoria.|
 |Live Preview|Microsoft|![Live Preview](img/livepreview.png)|Abre una pantalla dividida en el editor que muestra los cambios de tu código en tiempo real sin necesidad de recargar la página.

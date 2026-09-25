@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head> 
+<title>TAREA 1-6</title>
+<meta charset="UTF-8">
+</head>
+
+
+    <body>
+        MI PRIMER DOCUMENTO HTML 
+        <p>
+Primer Párrafo
+        </p>
+
+<p>Segundo Párrafo</p>
+<!--Comentario de desarrollador-->
+<p>Tercer Párrafo</p>
+<p>Cuarto Párrafo</p>
+
+<!--empieza el ejercicio 5 -->
+
+<p> <strong>GALICIA </strong>
+</p>
+<strong>GALIZA</strong> <p></p>
+
+Los nombres <strong>Galiza</strong> y <strong>Galicia</strong> derivan de la palabra latina Gallaecia (o Callaecia), que <del>literalmente</del> significaba <p></p><em>tierra de los galaicos</em> <p></p>Los galaicos eran el pueblo más numeroso del noroeste de la Península Ibérica ya antes de su integración en el<p></p> Imperio Romano en el siglo I a.C.<p></p>
+
+La primera referencia histórica de los galaicos, se remonta al año 136 a.C., cuando el general romano Décimo <p></p>Xunio Bruto Galaico regresa a Roma después de su victoriosa campaña de guerra contra dos pueblos<p></p> previamente desconocidos, lusitanos y galaicos. El general recibe del propio Senado romano el título de <p></p>Gallaecus o <em> galaico</em> en honor <p></p> 
+<pre>
+<em>a la dura 
+                 expedición
+                         militar contra 
+                                        estes.</em>
+
+</pre>
+
+
+
+<em>Texto realizado para la primera práctica de <u>DAM</u> con &ltHTML 5&gt</em>
+
+</html>

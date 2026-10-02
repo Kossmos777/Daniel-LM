@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <title>Definiciones ordenadas</title>
+<meta charset="UTF-8">
+</head>
+
+<body>
+<h1>Definiciones con mi apellido</h1>
+<dl>
+<dt> gabador</dt>
+<dd>Que gaba en exceso e servilmente para tratar de agradar.</dd>
+<dt>gabán</dt>
+<dd>Peza de vestir en forma de capa con mangas e ás veces tamén capucha.</dd>
+<dt>gabanza</dt>
+<dd>Acto de gabar</dd>
+<dt>gabardina</dt>
+<dd>Peza de roupa de abrigo lixeira e longa, feita de tecido impermeable, que se pon por riba do resto da roupa para protexerse fundamentalmente da chuvia.</dd>
+<dt>gabear</dt>
+<dd>[Animal]subir por unha árbore, parede etc., axudándose das patas e agarrándose fortemente coas uñas.</dd>
+
+
+
+
+
+</dl>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+</html>

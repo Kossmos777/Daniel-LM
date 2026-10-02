@@ -1,46 +1,49 @@
-<!DOCTYPE html>  
+<!DOCTYPE html>
 <html lang="es">
 
-<head> 
-<title>Lista desordenada</title>
-<meta charset="UTF-8">
+<head>
+    <title>Lista desordenada</title>
+    <meta charset="UTF-8">
+
 </head>
 
 <body>
 
-<h1>Canales actuales de televisión</h1>
+    <h2>Canales actuales de televisión</h2>
 
- <ol type="1">
-<li>Televisiones públicas</li>
-<ul>
-    <li>TVE1 </li>
-    <li>TVE2</li>
-    <li>TeleMadrid</li>
-</ul>
+    <ol type="1">
+        <li>Televisiones públicas
+            <ul>
+                <li>TVE1 </li>
+                <li>TVE2</li>
+                <li>TeleMadrid</li>
+            </ul>
+        </li>
+        <li>Televisiones privadas
 
-<li>Televisiones privadas</li>
+        <ul>
+            <li>Grupo Mediaset</li>
 
-<ul>
-    <li>Grupo Mediaset</li>
-    
-    <ol>
-<li> Telecinco</li>
-<li>Cuatro</li>
-<li>Boing</li>
-<li>Dvinity</li>
-<li>Energy</li>
+            <ol>
+                <li> Telecinco</li>
+                <li>Cuatro</li>
+                <li>Boing</li>
+                <li>Dvinity</li>
+                <li>Energy</li>
 
-</ol>
+            </ol>
 
-<li>Grupo Atresmedia</li>
-<ol>
-<li>Antena3</li>
-<li>La Sexta</li>
-<li>Neox</li>
-<li>Nova</li>
-<li>Mega</li>
+            <li>Grupo Atresmedia</li>
+            <ol>
+                <li>Antena3</li>
+                <li>La Sexta</li>
+                <li>Neox</li>
+                <li>Nova</li>
+                <li>Mega</li>
 
-
-</ol>
+            </ol>
+             </li>
+            </ol>
 </body>
+
 </html>

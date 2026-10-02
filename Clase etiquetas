@@ -1,0 +1,12 @@
+<a enlace>pagina</a>
+<a href="indext.html">pagina principal</a>
+<a href="pag/contacto.html">pagina principal</a>
+<a href="../index.html">pagina principal</a>
+<a href="../pag/contacto.html">pagina principal</a>
+
+Marcadores: 1-Crea el marcadir al que queremos saltar
+<h1 id="tituloprincipal">Curso de HTML</h1>
+2-AÑADIMOS EL ENLACE QUE NOS LLEVARA AL MARCADOR
+<a href="#tituloprincipal">Ir al titulo principal</a>
+DE OTRA PAGINA:
+<a href="pagina.html#tituloprincipal">Ir al titulo principal</a>

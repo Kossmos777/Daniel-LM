@@ -41,8 +41,8 @@ git commit -m"Comentario descriptivo"
 
  | Nombre | Desarrollador | Imagen| Función
 |------|        -       |       -|  -   | 
-|HTML CSS Support|Ecmel|![HTML CSS Supoort](img/html%20css.png)|Autocompleta clases e IDs de CSS dentro de tus archivos HTML para que no tengas que escribirlos de memoria.|
-|Live Preview|Microsoft|![Live Preview](img/livepreview.png)|Abre una pantalla dividida en el editor que muestra los cambios de tu código en tiempo real sin necesidad de recargar la página.
+|HTML CSS Support|Ecmel|![HTML CSS Supoort](img/livepreview.png)|Autocompleta clases e IDs de CSS dentro de tus archivos HTML para que no tengas que escribirlos de memoria.|
+|Live Preview|Microsoft|![Live Preview]()C:\Users\cmira\Desktop\Dani-LM\Daniel-LM\UD1\img\MARKDOWN.png|Abre una pantalla dividida en el editor que muestra los cambios de tu código en tiempo real sin necesidad de recargar la página.
 |Markdown All in One|Yu Zhang|![Markdown ALL in One](img/MARKDOWN.png)|Convierte el texto plano en una vista previa formateada con estilos (títulos, tablas, imágenes) y permite exportarlo a PDF o HTML.
 |XML|Red Hat|![XML](img/XML.png)|Comprueba que la estructura del código XML sea correcta, auto-cierra etiquetas y organiza el texto de forma legible.
 

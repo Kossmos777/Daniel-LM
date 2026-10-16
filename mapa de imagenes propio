@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+ <html lang='en'>
+ <head>
+    <meta charset='utf-8'>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <title>Mapa de imagen</title>
+    <link rel='stylesheet' href='main.css'>
+ </head>
+ <body>
+    <body>
+
+    
+    <img src="imagenes/wigetta1.jpg" alt="Poligonos" usemap="#mi-mapa-geometrico">
+
+    
+    <map name="mi-mapa-geometrico">
+      <area shape="rect" coords="27, 111 293, 475" href=" https://www.youtube.com/user/vegetta777"   alt="Ir a Wikipedia de vegetta777">   
+         <area shape="rect" coords="" href="https://www.youtube.com/user/Willyrex" alt="Ir a Wikipedia de Willyrex"> 
+        
+
+
+    </map>
+
+
+
+ </body>
+ </html>

@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <meta charset='utf-8'>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <title>Page Title</title>
+    <link rel='stylesheet' href='main.css'>
+</head>
+<body>
+    
+    <form action="servicio.php" method="get">
+
+
+<fieldset>
+
+    <label for= "usuario">Usuario</label>
+<input type="text" id="usuario" name="usuario" placeholder="Nombre y apellidos" maxlength="10"size="10" />
+
+    <legend>Datos del usuario</legend>
+    <input type ="radio" name="ocupacion" id="alumno" value="alumno" />
+     <label for="alumno">Alumno</label>
+
+<input type ="radio" name="ocupacion" id="profesor" value="profesor" />
+     <label for="profesor">Profesor</label>
+     
+</fieldset>
+
+
+
+
+<fieldset>
+
+<legend>Donde se produce</legend>
+
+<input type ="radio" name="lugar" id="departamento" value="departamento" />
+     <label for="departamento">Todo el departamento</label>
+
+     <input type ="radio" name="lugar" id="aula" value="aula" />
+     <label for="aula">Todo el aula</label>
+
+
+<input type ="radio" name="lugar" id="equipo" value="equipo" />
+     <label for="equipo">Sólo en un equipo</label><br>
+
+<label for= "problema">Identifica el dpto,aula o equipo</label>
+<input type="text" id="problema" name="problema" maxlength="100"size="10" />
+
+
+
+</fieldset>
+
+
+
+
+
+<fieldset>
+
+<legend>Información sobre la incidencia</legend>
+
+
+
+<label for= "info">Descripcion de la incidencia</label>
+<textarea id="descripcion" name="descripcion" placeholder="Describe el problema con detalle" rows="6" cols="60"></textarea>
+<br>
+Nivel de urgencia:
+
+<br>
+<input type ="radio" name="nivel" id="alto" value="alto" />
+     <label for="alto">Alto</label>
+<br>
+     <input type ="radio" name="nivel" id="medio" value="medio" />
+     <label for="medio">Medio</label>
+<br>
+     <input type ="radio" name="nivel" id="bajo" value="bajo" />
+     <label for="bajo">Bajo</label>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</fieldset>
+
+
+
+
+
+
+
+
+</form>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
